@@ -1,7 +1,7 @@
 #+STARTUP:showall hidestars
 
 * Links
-  - Here's My Blog
+  - [[http://www.lane5.cn][Here's my Blog]]
 
 * Lesson 1
   ** Part 1
@@ -19,3 +19,4 @@
   Show some org-mode
   - review init.el
   - set up Readme.org
+
